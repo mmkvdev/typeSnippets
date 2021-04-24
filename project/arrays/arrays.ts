@@ -1,14 +1,14 @@
 // arrays
-let arr = ['typescript', 'javascript', 'python'];
+let arr_ = ['typescript', 'javascript', 'python'];
 
-arr.push('php'); // valid
+arr_.push('php'); // valid
 // arr.push(3); // invalid => typescript fails the compilation because the type of the latest entries should match the type inside the types of elements declared inside the array.
 // arr[0] = 3; //invalid => can't assign a mistype
 // arr = 'ruby'; // can't change the type of the array variable as well
 
-let numbers = [1,2,3,4];
+let numbers_ = [1,2,3,4];
 
-numbers.push(5); //valid
+numbers_.push(5); //valid
 // numbers.push('developer'); //invalid
 // numbers[1] = 'software'; // invalid
 
