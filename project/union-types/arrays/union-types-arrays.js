@@ -1,6 +1,7 @@
 // union-types
-var union_types = [];
-union_types.push('aws');
-union_types.push(23);
-union_types.push(true);
-console.log('union_types: ', union_types);
+var _union_types = [];
+_union_types.push('aws');
+_union_types.push(23);
+_union_types.push(true);
+console.log('union_types: ', _union_types);
+//# sourceMappingURL=union-types-arrays.js.map
