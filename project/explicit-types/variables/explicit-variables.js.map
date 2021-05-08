@@ -1,0 +1,1 @@
+{"version":3,"file":"explicit-variables.js","sourceRoot":"","sources":["explicit-variables.ts"],"names":[],"mappings":"AAAA,iBAAiB;AAEjB,IAAI,UAAkB,CAAC;AACvB,IAAI,IAAY,CAAC;AACjB,IAAI,OAAsB,CAAC;AAE3B,eAAe;AACf,IAAI,GAAG,EAAE,CAAC;AACV,OAAO,GAAG;IACN;QACI,IAAI,EAAE,KAAK,EAAE,SAAS,EAAE,CAAC,QAAQ,EAAE,KAAK,CAAC;KAC5C;IACD,EAAE,KAAK,EAAE,QAAQ,EAAE;CACtB,CAAC"}
