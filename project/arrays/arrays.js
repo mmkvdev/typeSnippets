@@ -12,3 +12,4 @@ var multumArray = [1, 2, 'cloud', 'aws'];
 multumArray.push('developer');
 multumArray.push(3);
 multumArray[1] = 'devops';
+//# sourceMappingURL=arrays.js.map
