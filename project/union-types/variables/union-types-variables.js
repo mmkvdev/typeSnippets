@@ -1,5 +1,6 @@
 // union types on variables
-var uid;
-uid = 'aws_developer';
-uid = 23;
+var _uid;
+_uid = 'aws_developer';
+_uid = 23;
 // uid = true;
+//# sourceMappingURL=union-types-variables.js.map
