@@ -14,3 +14,4 @@ _developer = {
     _role: 'api'
     // skills: [] 
 };
+//# sourceMappingURL=objects.js.map
