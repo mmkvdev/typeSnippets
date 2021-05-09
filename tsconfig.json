@@ -1,10 +1,10 @@
 {
     "compilerOptions": {
-        "module": "commonjs", 
+        "module": "es2015", 
         "outDir": "./project/public/",
         "rootDir": "./project/src", 
         "sourceMap": true, 
-        "target": "es5"
+        "target": "es6"
     },
     "include": ["./project/src"],
 }
