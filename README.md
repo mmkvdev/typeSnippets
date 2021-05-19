@@ -4,8 +4,14 @@
 - primitive data types
 - arrays
 - objects
+- interfaces
+- narrowing
+- anonymous functions
+- functions
+- classes
+- interfaces with classes
 - explicit types
-- union types (hybrid arrays)
+- union types (hybrid arrays) with variables, arrays, objects
 - function signatures
 - type alias
 - generics
